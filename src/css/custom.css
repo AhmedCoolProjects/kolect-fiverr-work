@@ -66,10 +66,23 @@ html{
  align-items: center;
  justify-content: center;
  text-decoration: none !important;
-
 }
+
 .item-footer-custom-img{
   height:20px;
   object-fit: contain;
   margin-right: 8px;
+}
+.item-footer-custom:hover{
+  background-color: #161616;
+  
+}
+.item-footer-custom:hover .item-footer-custom-img{
+  filter: invert(1);
+}
+
+@media screen and (max-width: 768px) {
+  .item-footer-custom span{
+    display: none;
+  }
 }

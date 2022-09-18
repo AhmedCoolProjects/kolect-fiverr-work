@@ -201,19 +201,29 @@ const config = {
         <div class="items-footer-container-custom">
         <a href="#" class="item-footer-custom">
         <img src="img/svgs/twitter.svg" class="item-footer-custom-img" alt="logo" />
-        twitter</a>
+        <span>twitter
+        </span>
+        </a>
         <a href="#" class="item-footer-custom">
         <img src="img/svgs/discord.svg" class="item-footer-custom-img" alt="logo" />
-        discord</a>
+        <span>discord
+        </span>
+        </a>
         <a href="#" class="item-footer-custom">
          <img src="img/svgs/telegram.svg" class="item-footer-custom-img" alt="logo" />
-        telegram</a>
+        <span>telegram
+        </span>
+        </a>
         <a href="#" class="item-footer-custom">
          <img src="img/svgs/instagram.svg" class="item-footer-custom-img" alt="logo" />
-        instagram</a>
+        <span>instagram
+        </span>
+        </a>
         <a href="#" class="item-footer-custom">
          <img src="img/svgs/github2.svg" class="item-footer-custom-img" alt="logo" />
-        github</a>
+        <span>github
+        </span>
+        </a>
         </div>`,
       },
       colorMode: {
