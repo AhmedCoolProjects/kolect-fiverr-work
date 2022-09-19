@@ -50,12 +50,11 @@ html{
 }
 .items-footer-container-custom{
   margin-top: 12px;
-  background-color: #000;
+  background-color: #465DAA;
   width: 100%;
   display: flex;
   flex-direction: row;
   align-items: center;
-  
 }
 .item-footer-custom{
   flex:1;
@@ -85,4 +84,30 @@ html{
   .item-footer-custom span{
     display: none;
   }
+}
+.footer > .container-fluid .footer__links{
+  margin: 0 !important;
+  width: 90%;
+}
+.footer > .container-fluid{
+  margin: 0 !important;
+  padding: 0 !important;
+  min-width: 100% !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.footer {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  width: 100% !important;
+  position: relative !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footer .footer__bottom{
+  width: 100% !important;
+  margin: 0 !important;
 }
