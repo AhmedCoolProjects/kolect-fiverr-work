@@ -11,7 +11,7 @@ function HomepageHeader() {
       <p className="text-xl md:text-2xl opacity-75 text-center m-0">
         Your all-in-one resource for Kolect
       </p>
-      <Link className="mt-2" to="/docs/intro">
+      <Link className="mt-2" to="/docs/category/hiring">
         Kolect is hiring ➔
       </Link>
     </header>
