@@ -73,11 +73,13 @@ html{
   margin-right: 8px;
 }
 .item-footer-custom:hover{
-  background-color: #161616;
-  
+  background-color: #161616; 
+}
+.item-footer-custom:hover span{
+  color: #5d50cb !important;
 }
 .item-footer-custom:hover .item-footer-custom-img{
-  filter: invert(1);
+  filter: invert(34%) sepia(87%) saturate(6164%) hue-rotate(229deg) brightness(80%) contrast(99%);  
 }
 
 @media screen and (max-width: 768px) {

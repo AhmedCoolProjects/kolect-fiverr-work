@@ -195,7 +195,7 @@ const config = {
           alt: "Kolect Logo",
           src: "img/logo.svg",
           href: "https://Kolect.org/",
-          width: 150,
+          width: 75,
         },
         copyright: `Copyright © ${new Date().getFullYear()} Kolect. Built with Docusaurus.</br>
         <div class="items-footer-container-custom">
