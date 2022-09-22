@@ -99,10 +99,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        apiKey: "d570c663e8dd3ea36e42feecc19638fa",
-        appId: "BA9CSVC7BK",
-        indexName: "dev_test_version",
-        contextualSearch: true,
+        apiKey: "d7be5afadba64cb0d95c8409061839e5",
+        appId: "T5274N81G5",
+        indexName: "dev_index",
       },
       navbar: {
         title: "DOCS",
